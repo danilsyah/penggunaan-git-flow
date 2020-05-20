@@ -5,4 +5,10 @@
     - dev bisa meng-commit dan meng-push apapun di branch ini, sesukanya.
     - ketika APP ada bugs, tidak masalah karena masih di branch local dev
 ====
-bug beres, dicoba jalan. Maka saat nya melakukan FINISH FEATURE
+bug beres, dicoba jalan. Maka saat nya melakukan FINISH FEATURE.
+====
+
+FINISH FEATURE:
+Me-merge branch FEATURE ini ke develop
+Menghapus local branch FEATURE INI 
+Menghapus remote branch FEATURE INI
