@@ -8,7 +8,7 @@
 bug beres, dicoba jalan. Maka saat nya melakukan FINISH FEATURE.
 ====
 
-FINISH FEATURE:
-Me-merge branch FEATURE ini ke develop
-Menghapus local branch FEATURE INI 
-Menghapus remote branch FEATURE INI
+## FINISH FEATURE:
+ - Me-merge branch FEATURE ini ke develop
+ - Menghapus local branch FEATURE INI 
+ - Menghapus remote branch FEATURE INI
